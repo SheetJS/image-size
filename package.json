@@ -55,7 +55,7 @@
     "nyc": "15.0.0",
     "sinon": "8.1.1",
     "tslint": "6.0.0",
-    "typedoc": "0.16.9",
+    "typedoc": "0.16.11",
     "typescript": "3.7.5"
   },
   "dependencies": {
